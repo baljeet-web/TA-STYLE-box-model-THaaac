@@ -1,0 +1,36 @@
+body{
+    background-color: coral;
+
+}
+img{
+    border-radius: 20px;
+}
+div{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    background: red
+}
+margin{
+    margin-right: 20;
+}
+h1{
+    border: solid;
+    border-color: red;
+    padding: 10px;
+    background:#D18C1D
+}
+p{
+    border: 2px dotted black;
+    width: 600px;
+    height: 400px;
+    background:#D1D631;
+}
+.margin{
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 130px;
+    border: 3px dashed blue;
+    background: #A1A1A1;
+    padding: 10px;
+    }
